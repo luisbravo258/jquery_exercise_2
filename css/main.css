@@ -16,6 +16,11 @@ h1, h2, h3, h4, h5, p, ul, li {
 	padding: 1em 0;
 }
 
+.underline{
+	border-bottom: 5px solid gray;
+}
+
+
 ul.nav-bar, li {
 	display: inline-block;
 	vertical-align: middle;
